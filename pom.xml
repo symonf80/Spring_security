@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>DaoHibernate</artifactId>
+    <artifactId>Spring_Security</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>DaoHibernate</name>
-    <description>DaoHibernate</description>
+    <name>Spring_Security</name>
+    <description>Spring_Security</description>
     <properties>
         <java.version>11</java.version>
     </properties>
